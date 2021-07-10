@@ -1,21 +1,17 @@
-<h1 align="center">Hi 👋, I'm Semih GULUM</h1>
+<h1 align="center">Hello 🤙, I'm Semih GULUM</h1>
 <h3 align="center">A passionate machine learning and deep learning developer from Turkey</h3>
 
-- 🔭 I’m currently working on **DentalAI and AdresGezgini**
+- 🔭 I’m currently working on **DentalAI** and **AdresGezgini**
 
 - 🌱 I’m currently learning **machine learning algorithms in pytorch and neural language processing**
 
-- 👨‍💻 All of my projects are available at [https://semihstp.github.io/](https://semihstp.github.io/)
+- 👨‍💻 All of my projects are available at [my website](https://semihstp.github.io/)
 
-- 📝 I regularly write articles on [https://semih-gulum.medium.com/](https://semih-gulum.medium.com/)
+- 📝 I regularly write articles on [my personal Medium account](https://semih-gulum.medium.com/)
 
 - 💬 Ask me about **anything!**
 
-- 📫 How to reach me **sgulum98@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 📫 You can reach me from **sgulum98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
