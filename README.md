@@ -1,4 +1,4 @@
-<h1 align="center">Hello 🤙, I'm Semih GULUM</h1>
+<h1 align="center">Hello 🤙 I'm Semih GULUM</h1>
 <h3 align="center">A passionate machine learning and deep learning developer from Turkey</h3>
 
 - 🔭 I’m currently working on **AVL Turkey**
