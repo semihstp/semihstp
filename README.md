@@ -1,7 +1,7 @@
 <h1 align="center">Hello 🤙 I'm Semih GULUM</h1>
 <h3 align="center">A passionate machine learning and deep learning developer from Turkey</h3>
 
-- 🔭 I’m currently working Data Scientist at **AVL Turkey**
+- 🔭 I’m currently working Data Scientist at **Accenture**
 
 - 🌱 I’m currently learning **machine learning algorithms in pytorch and neural language processing**
 
